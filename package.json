@@ -1,5 +1,5 @@
 {
-    "name": "mirandajunior10/react-component-npm",
+    "name": "@mirandajunior10/react-component-npm",
     "publishConfig": {
         "registry": "https://npm.pkg.github.com/mirandajunior10"
     },
